@@ -1,6 +1,7 @@
 # Nuxt 3 admin template
 
 ## Installation
+
 ```
 # Clone this repository
 git clone https://github.com/WailanTirajoh/nuxt3-admin-template.git
@@ -21,7 +22,9 @@ npx husky install
 ```
 
 ## Preview
+
 url: https://nuxt3-admin-template.vercel.app
 
 ## Docs
+
 vue3-tailwind docs: https://vue3-tailwind-docs.vercel.app/guide/getting-started.html
